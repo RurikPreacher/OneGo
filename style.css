@@ -1,0 +1,112 @@
+* {
+    margin: 0;
+    padding: 0;
+}
+.header_title {
+    background-color: #ac0000;
+    display: flex;
+    justify-content: center;
+    align-content: center;
+    padding-right: 95px;
+}
+.email {
+    padding: 15px 0px 15px 0px;
+    display: flex;
+    justify-content: center;
+    align-content: center;
+    font-family: "ProximaNova-Bold";
+    font-size: 30px;
+    color: #afafaf;
+}
+.link_button {
+    border: solid 1px;
+    border-radius: 8px;
+    border-color: #cccccc;
+    background: transparent;
+    position: relative;
+    left: 50%;
+    transform: translate(-50%, 0);
+}
+.link_button > a > img {
+    padding: 15px 50px;
+}
+.link_text {
+    font-family: "ProximaNova-Bold";
+    font-size: 30px;
+    color: #afafaf;
+    display: flex;
+    justify-content: center;
+}
+.certificate_text {
+    margin: 60px 0px 60px 0px;
+    text-align: center;
+    font-family: "ProximaNova-Bold";
+    font-size: 30px;
+    color: #afafaf;
+}
+.certificate_login {
+    display: flex;
+    justify-content: center;
+    flex-direction: column;
+}
+.certificate_login > p > input{
+    width: 100%;
+    padding: 30px 20px;
+    font-family: "ProximaNova-Regular";
+    font-size: 30px;
+    color: #afafaf;
+    border: solid 1px;
+    border-radius: 8px;
+    border-color: #cccccc;
+    margin-bottom: 100px;
+}
+.certificate_login > p > input::placeholder {
+    color: #afafaf;
+}
+.certificate_login > .certificate_button > button {
+    text-transform: uppercase;
+    cursor: pointer;
+    padding: 10px 25px;
+    color: #fff;
+    background: #ac0000;
+    border: 2px solid #ac0000;
+    border-radius: 8px;
+    width: 50%;
+    font-size: 38px;
+    font-family: "ProximaNova-Bold";
+}
+.certificate_button {
+    text-align: center;
+    margin-bottom: 150px;
+}
+.footer {
+    background: #ac0000;
+    height: 150px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+.footer > p {
+    text-align: center;
+    color: #fff;
+    font-size: 30px;
+    font-family: "ProximaNova-Bold";
+}
+.footer > p > a {
+    text-decoration:none;
+    color: #fff;
+}
+
+@font-face {
+    font-family: "ProximaNova-Regular";
+    src: url("/fonts/ProximaNova-Regular.ttf") format("truetype");
+    font-style: normal;
+    font-weight: normal;
+}
+
+@font-face{
+    font-family: "ProximaNova-Bold";
+    src: url("/fonts/ProximaNova-Bold.ttf") format("truetype");
+    font-style: normal;
+    font-weight: normal;
+}
