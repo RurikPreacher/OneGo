@@ -2,7 +2,7 @@
     .certificate_login > p > input{
         font-size: 23px;
     }
-    .certificate_login > .certificate_button > a > button {
+    .certificate_login > .certificate_button > a {
         font-size: 23px;
     }
     .footer > p {
@@ -16,7 +16,7 @@
     .certificate_login > p > input{
         font-size: 20px;
     }
-    .certificate_login > .certificate_button > a > button {
+    .certificate_login > .certificate_button > a {
         font-size: 20px;
     }
     .footer {
@@ -45,7 +45,7 @@
     .certificate_login > p > input{
         font-size: 16px;
     }
-    .certificate_login > .certificate_button > a > button {
+    .certificate_login > .certificate_button > a {
         font-size: 16px;
     }
     .footer {
@@ -74,7 +74,7 @@
     .certificate_login > p > input{
         font-size: 13px;
     }
-    .certificate_login > .certificate_button > a > button {
+    .certificate_login > .certificate_button > a {
         font-size: 13px;
     }
     .footer {
