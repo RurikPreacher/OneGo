@@ -1,0 +1,102 @@
+@media screen and (max-width: 767px) {
+    .certificate_login > p > input{
+        font-size: 23px;
+    }
+    .certificate_login > .certificate_button > button {
+        font-size: 23px;
+    }
+    .footer > p {
+        font-size: 20px;
+    }
+    .certificate_text {
+        font-size: 26px;
+    }
+}
+@media screen and (max-width: 521px) {
+    .certificate_login > p > input{
+        font-size: 20px;
+    }
+    .certificate_login > .certificate_button > button {
+        font-size: 20px;
+    }
+    .footer {
+        height: 80px;
+    }
+    .footer > p {
+        font-size: 20px;
+    }
+    .certificate_login > p > input {
+        margin-bottom: 60px;
+    }
+    .certificate_text {
+        font-size: 20px;
+    }
+    .link_text {
+        font-size: 23px;
+    }
+    .email {
+        font-size: 26px;
+    }
+    .certificate_button {
+        margin-bottom: 80px;
+    }
+}
+@media screen and (max-width: 480px) {
+    .certificate_login > p > input{
+        font-size: 16px;
+    }
+    .certificate_login > .certificate_button > button {
+        font-size: 16px;
+    }
+    .footer {
+        height: 80px;
+    }
+    .footer > p {
+        font-size: 16px;
+    }
+    .certificate_login > p > input {
+        margin-bottom: 50px;
+    }
+    .certificate_text {
+        font-size: 20px;
+    }
+    .link_text {
+        font-size: 20px;
+    }
+    .email {
+        font-size: 20px;
+    }
+    .certificate_button {
+        margin-bottom: 70px;
+    }
+}
+@media screen and (max-width: 390px) {
+    .certificate_login > p > input{
+        font-size: 13px;
+    }
+    .certificate_login > .certificate_button > button {
+        font-size: 13px;
+    }
+    .footer {
+        height: 60px;
+    }
+    .footer > p {
+        font-size: 13px;
+    }
+    .certificate_login > p > input {
+        margin-bottom: 30px;
+    }
+    .certificate_text {
+        font-size: 16px;
+        margin: 25px 0px 30px 0px;
+    }
+    .link_text {
+        font-size: 16px;
+    }
+    .email {
+        font-size: 16px;
+    }
+    .certificate_button {
+        margin-bottom: 50px;
+    }
+}
