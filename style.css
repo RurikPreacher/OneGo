@@ -63,7 +63,7 @@
 .certificate_login > p > input::placeholder {
     color: #afafaf;
 }
-.certificate_login > .certificate_button > button {
+.certificate_login > .certificate_button > a > button {
     text-transform: uppercase;
     cursor: pointer;
     padding: 10px 25px;
