@@ -28,7 +28,7 @@
     transform: translate(-50%, 0);
 }
 .link_button > a > img {
-    padding: 15px 50px;
+    padding: 15px 100px;
 }
 .link_text {
     font-family: "ProximaNova-Bold";
@@ -72,7 +72,8 @@
     border: 2px solid #ac0000;
     border-radius: 8px;
     width: 50%;
-    font-size: 38px;
+    font-size: 26px;
+    padding: 20px 110px;
     font-family: "ProximaNova-Bold";
     text-decoration: none;
 }

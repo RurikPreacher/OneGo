@@ -11,6 +11,9 @@
     .certificate_text {
         font-size: 26px;
     }
+    .certificate_button {
+        margin-bottom: 80px;
+    }
 }
 @media screen and (max-width: 521px) {
     .certificate_login > p > input{
@@ -30,15 +33,19 @@
     }
     .certificate_text {
         font-size: 20px;
+        margin: 40px 0px 40px 0px;
     }
     .link_text {
-        font-size: 23px;
+        font-size: 21px;
     }
     .email {
         font-size: 26px;
     }
     .certificate_button {
         margin-bottom: 80px;
+    }
+    .link_button > a > img {
+        padding: 15px 60px;
     }
 }
 @media screen and (max-width: 480px) {
@@ -47,6 +54,7 @@
     }
     .certificate_login > .certificate_button > a {
         font-size: 16px;
+        padding: 20px 80px;
     }
     .footer {
         height: 80px;
@@ -68,6 +76,9 @@
     }
     .certificate_button {
         margin-bottom: 70px;
+    }
+    .link_button > a > img {
+        padding: 15px 60px;
     }
 }
 @media screen and (max-width: 390px) {
