@@ -46,9 +46,11 @@
     }
     .certificate_button {
         margin-bottom: 80px;
+        margin-top: 20px;
     }
     .link_button > a > img {
         padding: 5px 135px;
+        width: 95%;
     }
 }
 @media screen and (max-width: 480px) {
@@ -79,9 +81,11 @@
     }
     .certificate_button {
         margin-bottom: 70px;
+        margin-top: 20px;
     }
     .link_button > a > img {
         padding: 5px 97px;
+        width: 90%;
     }
 }
 @media screen and (max-width: 390px) {
