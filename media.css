@@ -119,5 +119,6 @@
     }
     .link_button > a > img {
         padding: 5px 90px;
+        width: 88%;
     }
 }
