@@ -15,7 +15,7 @@
         margin-bottom: 80px;
     }
     .link_button > a > img {
-        padding: 5px 150px;
+        padding: 5px 145px;
     }
 }
 @media screen and (max-width: 521px) {
@@ -48,7 +48,7 @@
         margin-bottom: 80px;
     }
     .link_button > a > img {
-        padding: 5px 140px;
+        padding: 5px 135px;
     }
 }
 @media screen and (max-width: 480px) {
@@ -81,7 +81,7 @@
         margin-bottom: 70px;
     }
     .link_button > a > img {
-        padding: 5px 105px;
+        padding: 5px 97px;
     }
 }
 @media screen and (max-width: 390px) {
@@ -114,6 +114,6 @@
         margin-bottom: 50px;
     }
     .link_button > a > img {
-        padding: 5px 95px;
+        padding: 5px 90px;
     }
 }
